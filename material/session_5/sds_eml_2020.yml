@@ -1,0 +1,15 @@
+name: sds_eml_2020
+channels:
+  - anaconda
+  - r
+dependencies:
+  - jupyter
+  - ipykernel
+  - scipy
+  - geopandas
+  - seaborn
+  - networkx
+  - scikit-learn
+  - tzlocal
+  - r-base
+  - rpy2
