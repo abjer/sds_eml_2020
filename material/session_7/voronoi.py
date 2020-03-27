@@ -1,6 +1,7 @@
 import geopandas as gpd
 import numpy as np
 import pandas as pd
+import shapely
 import matplotlib.pyplot as plt
 
 from scipy.spatial import Voronoi
